@@ -17,6 +17,7 @@ public class PrintArray
 		//Split
 		String[] vals=country.split("");
 		System.out.println(vals[0]+" "+vals.length);
+		System.out.println("Hello Suresh");
 		
 	}	
 }
